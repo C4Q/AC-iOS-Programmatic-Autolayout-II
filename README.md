@@ -12,30 +12,13 @@ Continue exploring autolayout in cases where our app can be used in landscape or
 ---
 ### Goals:
 
-1. Go through some examples from last class to illustrate not to use `frames/bounds`
 2. Do a simple implementation of `willTransitionToTraitCollection`
 3. Helpful debugging tip for viewing constraints in the lldb
 4. Take a brief look at size classes
 5. Look at a Swift-y way to save you some typing
 
 ---
-### 1. Autolayout examples for 12/14 (Wednesday)
-
-### 1.
-<img src="./Images/day2_example1.png" width="400" alt="Example 1 Screenshot">
-
-### 2.
-<img src="./Images/day2_example2.png" width="400" alt="Example 2 Screenshot">
-
-### 3.
-<img src="./Images/day2_example3.png" width="400" alt="Example 3 Screenshot">
-
-### Bonus:
-Embed all of your views in a scroll view.
-
-
----
-### Case Study: Avoiding Frames
+### 1. Case Study: Avoiding Frames
 
 #### Why doesn't this work?
 
@@ -85,6 +68,22 @@ func exerciseThree(){
     greenView.widthAnchor.constraint(equalTo: greenView.heightAnchor).isActive = true
 }
 ```
+
+---
+### 2. More Autolayout Exercises!
+
+### 1.
+<img src="./Images/day2_example1.png" width="400" alt="Example 1 Screenshot">
+
+### 2.
+<img src="./Images/day2_example2.png" width="400" alt="Example 2 Screenshot">
+
+### 3.
+<img src="./Images/day2_example3.png" width="400" alt="Example 3 Screenshot">
+
+### Bonus:
+Embed all of your views in a scroll view.
+
 
 ---
 ### Exercises
