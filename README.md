@@ -28,7 +28,7 @@ Continue exploring autolayout in cases where our app can be used in landscape or
 <img src="./Images/day2_example2.png" width="400" alt="Example 2 Screenshot">
 
 ### 3.
-<img src="./Images/day3_example1.png" width="400" alt="Example 3 Screenshot">
+<img src="./Images/day2_example3.png" width="400" alt="Example 3 Screenshot">
 
 ### Bonus:
 Embed all of your views in a scroll view.
