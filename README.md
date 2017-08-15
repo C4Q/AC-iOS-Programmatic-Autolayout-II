@@ -22,13 +22,13 @@ Continue exploring autolayout in cases where our app can be used in landscape or
 ### 1. Autolayout examples for 12/14 (Wednesday)
 
 ### 1.
-![1](../Images/day2_example1.png)
+<img src="./Images/day2_example1.png" width="400" alt="Example 1 Screenshot">
 
 ### 2.
-![2](../Images/day2_example2.png)
+<img src="./Images/day2_example2.png" width="400" alt="Example 2 Screenshot">
 
 ### 3.
-![3](../Images/day2_example3.png)
+<img src="./Images/day3_example1.png" width="400" alt="Example 3 Screenshot">
 
 ### Bonus:
 Embed all of your views in a scroll view.
